@@ -1,6 +1,6 @@
 # realestate_ui
 
-A new Flutter project.
+A sample Flutter UI project.
 
 ## Getting Started
 
